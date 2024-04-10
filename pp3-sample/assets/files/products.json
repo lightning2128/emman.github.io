@@ -1,0 +1,52 @@
+[
+    {
+        "itemSku": "SKU-00001",
+        "itemType": "jewelry",
+        "itemName": "Wrist Watch",
+        "itemBrand": "Rolex",
+        "itemPrice": 150.00,
+        "itemQty": 12,
+        "itemImage": "assets/images/rolex.jpeg",
+        "brandLink": "https://www.rolex.com/en-us"
+    },
+    {
+        "itemSku": "SKU-00002",
+        "itemType": "devices",
+        "itemName": "Laptop",
+        "itemBrand": "Mac",
+        "itemPrice": 15000,
+        "itemQty": 10,
+        "itemImage": "assets/images/macbook.jpg",
+        "brandLink": "https://www.apple.com/ph/mac/"
+    },
+    {
+        "itemSku": "SKU-00003",
+        "itemType": "appliances",
+        "itemName": "Refrigerator",
+        "itemBrand": "Hanabisihi",
+        "itemPrice": 300,
+        "itemQty": 2,
+        "itemImage": "assets/images/ref.jpeg",
+        "brandLink": "https://myhanabishi.com/"
+    },
+    {
+        "itemSku": "SKU-00004",
+        "itemType": "sports",
+        "itemName": "Basketball Shoes",
+        "itemBrand": "Nike",
+        "itemPrice": 1200,
+        "itemQty": 5,
+        "itemImage": "assets/images/nike.png",
+        "brandLink": "https://www.nike.com/ph/"
+    },
+    {
+        "itemSku": "SKU-00005",
+        "itemType": "school supplies",
+        "itemName": "Notebook",
+        "itemBrand": "Cattleya",
+        "itemPrice": 50,
+        "itemQty": 120,
+        "itemImage": "assets/images/cattleya.jpeg",
+        "brandLink": "https://www.nationalbookstore.com/"
+    }
+]
